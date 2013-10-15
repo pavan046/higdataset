@@ -1,4 +1,4 @@
-higdataset (Hierarchical Interest Graph datasets)
+Hierarchical Interest Graph datasets
 ==========
 
 This repository comprises of the datasets that are created for our approach that generates 
