@@ -7,7 +7,7 @@ Hierarchical Interest Graph for Twitter users.
 The two datasets are zipped files and their description are as follows:
 
 1. wikipedia-hierarchy-priority -- This dataset comprises of the Wikipedia Hierarchy as a tab seperated file. The format of
-              the tsv is <sub-category><tab><category><tab><priority>. 
+              the tsv is \<sub-category\><tab><category><tab><priority>. 
               <sub-category> and <category> are labels of Wikipedia categories
               <priority> is an integer value that reflects the suitability of the <category> being a category of <sub-category>
 
